@@ -11,7 +11,7 @@ body {
 	min-width: 1200px;
 }
 
-.ryu-still, .ryu-ready, .ryu-throwing {
+.ryu , .ryu-still, .ryu-ready, .ryu-throwing {
 	  	width: 659px;
   		height: 494px;
   		position: absolute;
@@ -43,7 +43,7 @@ body {
 	height: 100px;	
 	widows: 160px;
 	display: none;
-	position: relative;
+ 	position: relative;
 	margin:14% 0 0 42%;
 	padding:5rem;
 	background-repeat: no-repeat;
